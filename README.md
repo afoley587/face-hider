@@ -1,6 +1,6 @@
 # Python Projects That Don't Suck - Hiding Faces In Images
 
-![Thumbnail](./images/thumbnail.png)
+![Thumbnail](./images/thumbnail-demo.png)
 
 I see so many python projects across the web. Some are really cool and unique.
 Some, on the other hand, are the things we've been seeing for years:
